@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4074e": {
+      "importer": "gltf-mesh",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@4074e",
+      "displayName": "",
+      "id": "4074e",
+      "name": "Creeper.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "401bf": {
+      "importer": "gltf-animation",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@401bf",
+      "displayName": "",
+      "id": "401bf",
+      "name": "Turn Left.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 18
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7257": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@a7257",
+      "displayName": "",
+      "id": "a7257",
+      "name": "Map #3.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b9e5": {
+      "importer": "texture",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@6b9e5",
+      "displayName": "",
+      "id": "6b9e5",
+      "name": "Map #3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1f16d525-b395-41c1-9752-7a2cf4581bae@a7257"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ece34": {
+      "importer": "gltf-scene",
+      "uuid": "1f16d525-b395-41c1-9752-7a2cf4581bae@ece34",
+      "displayName": "",
+      "id": "ece34",
+      "name": "Creeper@Turn Left.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #3",
+        "uri": "1f16d525-b395-41c1-9752-7a2cf4581bae@a7257"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Turn Left",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "1f16d525-b395-41c1-9752-7a2cf4581bae@ece34",
+    "assetFinder": {
+      "meshes": [
+        "1f16d525-b395-41c1-9752-7a2cf4581bae@4074e"
+      ],
+      "skeletons": [
+        "1f16d525-b395-41c1-9752-7a2cf4581bae@438fe"
+      ],
+      "textures": [
+        "1f16d525-b395-41c1-9752-7a2cf4581bae@6b9e5"
+      ],
+      "materials": [
+        "1f16d525-b395-41c1-9752-7a2cf4581bae@d90a4"
+      ],
+      "scenes": [
+        "1f16d525-b395-41c1-9752-7a2cf4581bae@ece34"
+      ]
+    }
+  }
+}

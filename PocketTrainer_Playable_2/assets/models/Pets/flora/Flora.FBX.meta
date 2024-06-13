@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "3cf2a": {
+      "importer": "gltf-mesh",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@3cf2a",
+      "displayName": "",
+      "id": "3cf2a",
+      "name": "Flora.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ace8f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@ace8f",
+      "displayName": "",
+      "id": "ace8f",
+      "name": "Map #4.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f8008": {
+      "importer": "texture",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@f8008",
+      "displayName": "",
+      "id": "f8008",
+      "name": "Map #4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@ace8f"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3def": {
+      "importer": "gltf-scene",
+      "uuid": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@a3def",
+      "displayName": "",
+      "id": "a3def",
+      "name": "Flora.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #4",
+        "uri": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@ace8f"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "fe65b2f7-d21f-4461-b05d-ae7a5164a156@a3def",
+    "assetFinder": {
+      "meshes": [
+        "fe65b2f7-d21f-4461-b05d-ae7a5164a156@3cf2a"
+      ],
+      "skeletons": [
+        "fe65b2f7-d21f-4461-b05d-ae7a5164a156@438fe"
+      ],
+      "textures": [
+        "fe65b2f7-d21f-4461-b05d-ae7a5164a156@f8008"
+      ],
+      "materials": [
+        "fe65b2f7-d21f-4461-b05d-ae7a5164a156@d90a4"
+      ],
+      "scenes": [
+        "fe65b2f7-d21f-4461-b05d-ae7a5164a156@a3def"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

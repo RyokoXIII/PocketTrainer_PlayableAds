@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc",
+  "files": [],
+  "subMetas": {
+    "4074e": {
+      "importer": "gltf-mesh",
+      "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@4074e",
+      "displayName": "",
+      "id": "4074e",
+      "name": "Creeper.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 18
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7257": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@a7257",
+      "displayName": "",
+      "id": "a7257",
+      "name": "Map #3.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "6b9e5": {
+      "importer": "texture",
+      "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@6b9e5",
+      "displayName": "",
+      "id": "6b9e5",
+      "name": "Map #3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@a7257"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "161c8": {
+      "importer": "gltf-scene",
+      "uuid": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@161c8",
+      "displayName": "",
+      "id": "161c8",
+      "name": "Creeper.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #3",
+        "uri": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@a7257"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@161c8",
+    "assetFinder": {
+      "meshes": [
+        "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@4074e"
+      ],
+      "skeletons": [
+        "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@438fe"
+      ],
+      "textures": [
+        "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@6b9e5"
+      ],
+      "materials": [
+        "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@d90a4"
+      ],
+      "scenes": [
+        "2e0b390f-d7ee-49f7-9397-f89812b4f0cc@161c8"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "aaf1c": {
+      "importer": "gltf-mesh",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@aaf1c",
+      "displayName": "",
+      "id": "aaf1c",
+      "name": "char.020.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 52
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "32b90ece-5d42-4dcd-9828-d4365d10de27@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1043e": {
+      "importer": "gltf-material",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@1043e",
+      "displayName": "",
+      "id": "1043e",
+      "name": "Material.002.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87b46": {
+      "importer": "gltf-scene",
+      "uuid": "32b90ece-5d42-4dcd-9828-d4365d10de27@87b46",
+      "displayName": "",
+      "id": "87b46",
+      "name": "T-Pose.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "32b90ece-5d42-4dcd-9828-d4365d10de27@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "32b90ece-5d42-4dcd-9828-d4365d10de27@87b46",
+    "assetFinder": {
+      "meshes": [
+        "32b90ece-5d42-4dcd-9828-d4365d10de27@aaf1c"
+      ],
+      "skeletons": [
+        "32b90ece-5d42-4dcd-9828-d4365d10de27@438fe"
+      ],
+      "textures": [
+        "32b90ece-5d42-4dcd-9828-d4365d10de27@7d6ab"
+      ],
+      "materials": [
+        "32b90ece-5d42-4dcd-9828-d4365d10de27@1043e"
+      ],
+      "scenes": [
+        "32b90ece-5d42-4dcd-9828-d4365d10de27@87b46"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

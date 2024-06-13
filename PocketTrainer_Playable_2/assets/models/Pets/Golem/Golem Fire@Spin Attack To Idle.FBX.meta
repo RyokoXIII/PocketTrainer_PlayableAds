@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "54470": {
+      "importer": "gltf-scene",
+      "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@54470",
+      "displayName": "",
+      "id": "54470",
+      "name": "Golem Fire@Spin Attack To Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7d1c": {
+      "importer": "gltf-animation",
+      "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@f7d1c",
+      "displayName": "",
+      "id": "f7d1c",
+      "name": "Spin Attack To Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.3333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.3333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Spin Attack To Idle",
+            "from": 0,
+            "to": 0.3333333432674408,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@54470",
+    "assetFinder": {
+      "meshes": [
+        "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@4ace9"
+      ],
+      "skeletons": [
+        "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@438fe"
+      ],
+      "textures": [
+        "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@53e01"
+      ],
+      "materials": [
+        "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@d90a4"
+      ],
+      "scenes": [
+        "61a7d5f6-5c60-44a0-84e8-4caa8774ca36@54470"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

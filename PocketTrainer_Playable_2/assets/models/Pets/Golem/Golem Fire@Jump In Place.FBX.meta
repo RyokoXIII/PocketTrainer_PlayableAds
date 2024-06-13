@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ada1d": {
+      "importer": "gltf-animation",
+      "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c@ada1d",
+      "displayName": "",
+      "id": "ada1d",
+      "name": "Jump In Place.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6cdd": {
+      "importer": "gltf-scene",
+      "uuid": "45599b8c-de1f-455c-a77f-eff06e40499c@a6cdd",
+      "displayName": "",
+      "id": "a6cdd",
+      "name": "Golem Fire@Jump In Place.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jump In Place",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "45599b8c-de1f-455c-a77f-eff06e40499c@a6cdd",
+    "assetFinder": {
+      "meshes": [
+        "45599b8c-de1f-455c-a77f-eff06e40499c@4ace9"
+      ],
+      "skeletons": [
+        "45599b8c-de1f-455c-a77f-eff06e40499c@438fe"
+      ],
+      "textures": [
+        "45599b8c-de1f-455c-a77f-eff06e40499c@53e01"
+      ],
+      "materials": [
+        "45599b8c-de1f-455c-a77f-eff06e40499c@d90a4"
+      ],
+      "scenes": [
+        "45599b8c-de1f-455c-a77f-eff06e40499c@a6cdd"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

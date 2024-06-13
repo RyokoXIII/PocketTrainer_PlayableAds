@@ -1,0 +1,219 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "33577": {
+      "importer": "gltf-mesh",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@33577",
+      "displayName": "",
+      "id": "33577",
+      "name": "knife left handle_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec2eb": {
+      "importer": "gltf-mesh",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@ec2eb",
+      "displayName": "",
+      "id": "ec2eb",
+      "name": "knife left_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c9e9": {
+      "importer": "gltf-animation",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@6c9e9",
+      "displayName": "",
+      "id": "6c9e9",
+      "name": "obstacles.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.316666603088379
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "9fd4b": {
+      "importer": "gltf-material",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@9fd4b",
+      "displayName": "",
+      "id": "9fd4b",
+      "name": "gray 1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e900f": {
+      "importer": "gltf-material",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@e900f",
+      "displayName": "",
+      "id": "e900f",
+      "name": "gray 3.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7c9f": {
+      "importer": "gltf-material",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@d7c9f",
+      "displayName": "",
+      "id": "d7c9f",
+      "name": "blue 3.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b31f4": {
+      "importer": "gltf-material",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@b31f4",
+      "displayName": "",
+      "id": "b31f4",
+      "name": "white.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8c72": {
+      "importer": "gltf-material",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@e8c72",
+      "displayName": "",
+      "id": "e8c72",
+      "name": "gray 2.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66d46": {
+      "importer": "gltf-scene",
+      "uuid": "f276361a-6289-4b31-9cfa-20177dfb1f71@66d46",
+      "displayName": "",
+      "id": "66d46",
+      "name": "Obstacle-11.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "obstacles",
+        "duration": 2.316666603088379,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "obstacles",
+            "from": 0,
+            "to": 2.316666603088379,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f276361a-6289-4b31-9cfa-20177dfb1f71@66d46",
+    "assetFinder": {
+      "meshes": [
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@ec2eb",
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@33577"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@9fd4b",
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@e900f",
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@d7c9f",
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@92dfd",
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@b31f4",
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@e8c72"
+      ],
+      "scenes": [
+        "f276361a-6289-4b31-9cfa-20177dfb1f71@66d46"
+      ]
+    }
+  }
+}

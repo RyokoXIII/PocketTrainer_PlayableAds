@@ -1,0 +1,110 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904",
+  "files": [],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@40586"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f31c7": {
+      "importer": "gltf-scene",
+      "uuid": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@f31c7",
+      "displayName": "",
+      "id": "f31c7",
+      "name": "gate_battle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@f31c7",
+    "assetFinder": {
+      "meshes": [
+        "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@e39f7"
+      ],
+      "materials": [
+        "0baab30d-fa8a-4252-b247-f6808bce5ee2",
+        "2350cf2c-b89c-4f66-b27b-e33c73bf5b41"
+      ],
+      "scenes": [
+        "dc5c2679-f24f-45f4-bbf1-0bb61ef43904@f31c7"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_gate_battle",
+    "meshOptimizer": true
+  }
+}

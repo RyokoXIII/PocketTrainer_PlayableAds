@@ -1,0 +1,109 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e",
+  "files": [],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@40586"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7c1b": {
+      "importer": "gltf-scene",
+      "uuid": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@e7c1b",
+      "displayName": "",
+      "id": "e7c1b",
+      "name": "RocksInWater.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@e7c1b",
+    "assetFinder": {
+      "meshes": [
+        "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@e39f7"
+      ],
+      "materials": [
+        "dfd86f33-3fe2-4eae-b709-ffb9fe36ca61"
+      ],
+      "scenes": [
+        "a57a0782-a7cb-4abb-9ab3-01509fc7e60e@e7c1b"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_RocksInWater",
+    "meshOptimizer": true
+  }
+}

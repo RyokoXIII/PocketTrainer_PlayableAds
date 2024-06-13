@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e184": {
+      "importer": "gltf-animation",
+      "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a@7e184",
+      "displayName": "",
+      "id": "7e184",
+      "name": "Jump W Root.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55bae": {
+      "importer": "gltf-scene",
+      "uuid": "5a434cf4-3a37-4d9c-af77-32f14de6242a@55bae",
+      "displayName": "",
+      "id": "55bae",
+      "name": "Golem Fire@Jump W Root.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jump W Root",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5a434cf4-3a37-4d9c-af77-32f14de6242a@55bae",
+    "assetFinder": {
+      "meshes": [
+        "5a434cf4-3a37-4d9c-af77-32f14de6242a@4ace9"
+      ],
+      "skeletons": [
+        "5a434cf4-3a37-4d9c-af77-32f14de6242a@438fe"
+      ],
+      "textures": [
+        "5a434cf4-3a37-4d9c-af77-32f14de6242a@53e01"
+      ],
+      "materials": [
+        "5a434cf4-3a37-4d9c-af77-32f14de6242a@d90a4"
+      ],
+      "scenes": [
+        "5a434cf4-3a37-4d9c-af77-32f14de6242a@55bae"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

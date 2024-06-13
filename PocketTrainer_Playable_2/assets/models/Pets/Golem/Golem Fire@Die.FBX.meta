@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "463a3b04-11d7-499d-a262-19196bb382c5",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "463a3b04-11d7-499d-a262-19196bb382c5@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d50": {
+      "importer": "gltf-animation",
+      "uuid": "463a3b04-11d7-499d-a262-19196bb382c5@73d50",
+      "displayName": "",
+      "id": "73d50",
+      "name": "Die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "463a3b04-11d7-499d-a262-19196bb382c5@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "463a3b04-11d7-499d-a262-19196bb382c5@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "463a3b04-11d7-499d-a262-19196bb382c5@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37e2e": {
+      "importer": "gltf-scene",
+      "uuid": "463a3b04-11d7-499d-a262-19196bb382c5@37e2e",
+      "displayName": "",
+      "id": "37e2e",
+      "name": "Golem Fire@Die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Die",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "463a3b04-11d7-499d-a262-19196bb382c5@37e2e",
+    "assetFinder": {
+      "meshes": [
+        "463a3b04-11d7-499d-a262-19196bb382c5@4ace9"
+      ],
+      "skeletons": [
+        "463a3b04-11d7-499d-a262-19196bb382c5@438fe"
+      ],
+      "textures": [
+        "463a3b04-11d7-499d-a262-19196bb382c5@53e01"
+      ],
+      "materials": [
+        "463a3b04-11d7-499d-a262-19196bb382c5@d90a4"
+      ],
+      "scenes": [
+        "463a3b04-11d7-499d-a262-19196bb382c5@37e2e"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

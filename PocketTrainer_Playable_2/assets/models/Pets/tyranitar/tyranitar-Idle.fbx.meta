@@ -1,0 +1,265 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "95c06410-0af0-4ade-b2fc-681620385167",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "68747": {
+      "importer": "gltf-embeded-image",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@68747",
+      "displayName": "",
+      "id": "68747",
+      "name": "UnnamedImage-2.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 34
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dd56": {
+      "importer": "gltf-embeded-image",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@3dd56",
+      "displayName": "",
+      "id": "3dd56",
+      "name": "UnnamedImage-0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e6ff4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@e6ff4",
+      "displayName": "",
+      "id": "e6ff4",
+      "name": "UnnamedImage-1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "95c06410-0af0-4ade-b2fc-681620385167@3dd56"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "95c06410-0af0-4ade-b2fc-681620385167@e6ff4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "95c06410-0af0-4ade-b2fc-681620385167@68747"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66ba4": {
+      "importer": "gltf-scene",
+      "uuid": "95c06410-0af0-4ade-b2fc-681620385167@66ba4",
+      "displayName": "",
+      "id": "66ba4",
+      "name": "tyranitar-Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "95c06410-0af0-4ade-b2fc-681620385167@3dd56"
+      },
+      {
+        "uri": "95c06410-0af0-4ade-b2fc-681620385167@e6ff4"
+      },
+      {
+        "uri": "95c06410-0af0-4ade-b2fc-681620385167@68747"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 0,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 0,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "95c06410-0af0-4ade-b2fc-681620385167@66ba4",
+    "assetFinder": {
+      "meshes": [
+        "95c06410-0af0-4ade-b2fc-681620385167@bcca5"
+      ],
+      "skeletons": [
+        "95c06410-0af0-4ade-b2fc-681620385167@438fe"
+      ],
+      "textures": [
+        "95c06410-0af0-4ade-b2fc-681620385167@3effa",
+        "95c06410-0af0-4ade-b2fc-681620385167@221a5",
+        "95c06410-0af0-4ade-b2fc-681620385167@0089c"
+      ],
+      "materials": [
+        "f338f0b3-6edb-46c5-9f89-5af15eb58903",
+        "7957526d-590e-43e1-855d-043e3f92383b",
+        "9798fcc8-06a8-40d5-bb78-13c41c7f9f93"
+      ],
+      "scenes": [
+        "95c06410-0af0-4ade-b2fc-681620385167@66ba4"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Pets/tyranitar/Materials_tyranitar-Idle",
+    "meshOptimizer": {
+      "algorithm": "gltfpack",
+      "enable": true,
+      "gltfpackOptions": {}
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

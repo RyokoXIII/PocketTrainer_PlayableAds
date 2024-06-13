@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f09a": {
+      "importer": "gltf-animation",
+      "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0@1f09a",
+      "displayName": "",
+      "id": "1f09a",
+      "name": "Fly Forward In Place.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4adcf": {
+      "importer": "gltf-scene",
+      "uuid": "ea11b246-b452-4bc8-a32c-f313c0b639b0@4adcf",
+      "displayName": "",
+      "id": "4adcf",
+      "name": "Golem Fire@Fly Forward In Place.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fly Forward In Place",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ea11b246-b452-4bc8-a32c-f313c0b639b0@4adcf",
+    "assetFinder": {
+      "meshes": [
+        "ea11b246-b452-4bc8-a32c-f313c0b639b0@4ace9"
+      ],
+      "skeletons": [
+        "ea11b246-b452-4bc8-a32c-f313c0b639b0@438fe"
+      ],
+      "textures": [
+        "ea11b246-b452-4bc8-a32c-f313c0b639b0@53e01"
+      ],
+      "materials": [
+        "ea11b246-b452-4bc8-a32c-f313c0b639b0@d90a4"
+      ],
+      "scenes": [
+        "ea11b246-b452-4bc8-a32c-f313c0b639b0@4adcf"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "372b2": {
+      "importer": "gltf-mesh",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@372b2",
+      "displayName": "",
+      "id": "372b2",
+      "name": "moving grinder_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eedca": {
+      "importer": "gltf-mesh",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@eedca",
+      "displayName": "",
+      "id": "eedca",
+      "name": "moving grinder ground_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c9e9": {
+      "importer": "gltf-animation",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@6c9e9",
+      "displayName": "",
+      "id": "6c9e9",
+      "name": "obstacles.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.9833333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "dfe83": {
+      "importer": "gltf-material",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@dfe83",
+      "displayName": "",
+      "id": "dfe83",
+      "name": "blue 1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b31f4": {
+      "importer": "gltf-material",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@b31f4",
+      "displayName": "",
+      "id": "b31f4",
+      "name": "white.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8c72": {
+      "importer": "gltf-material",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@e8c72",
+      "displayName": "",
+      "id": "e8c72",
+      "name": "gray 2.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d38d": {
+      "importer": "gltf-scene",
+      "uuid": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@3d38d",
+      "displayName": "",
+      "id": "3d38d",
+      "name": "Obstacle-9.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "obstacles",
+        "duration": 3.9833333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "obstacles",
+            "from": 0,
+            "to": 3.9833333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@3d38d",
+    "assetFinder": {
+      "meshes": [
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@372b2",
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@eedca"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@dfe83",
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@92dfd",
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@b31f4",
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@e8c72"
+      ],
+      "scenes": [
+        "a34e4819-f42f-43fa-bd0d-5fe23b0116dc@3d38d"
+      ]
+    }
+  }
+}

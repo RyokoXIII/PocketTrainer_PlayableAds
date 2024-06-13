@@ -1,0 +1,263 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "51770": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@51770",
+      "displayName": "",
+      "id": "51770",
+      "name": "Map #38.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "54266": {
+      "importer": "texture",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@54266",
+      "displayName": "",
+      "id": "54266",
+      "name": "Map #38.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@51770"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a47eb": {
+      "importer": "gltf-mesh",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@a47eb",
+      "displayName": "",
+      "id": "a47eb",
+      "name": "Lucario_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.9583333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 58
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1092": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@c1092",
+      "displayName": "",
+      "id": "c1092",
+      "name": "Map #39.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "86d7c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@86d7c",
+      "displayName": "",
+      "id": "86d7c",
+      "name": "Map #40.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b21df": {
+      "importer": "texture",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@b21df",
+      "displayName": "",
+      "id": "b21df",
+      "name": "Map #39.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@c1092"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04303": {
+      "importer": "texture",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@04303",
+      "displayName": "",
+      "id": "04303",
+      "name": "Map #40.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@86d7c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fac30": {
+      "importer": "gltf-scene",
+      "uuid": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@fac30",
+      "displayName": "",
+      "id": "fac30",
+      "name": "Lucario-Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #38",
+        "uri": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@51770"
+      },
+      {
+        "name": "Map #39",
+        "uri": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@c1092"
+      },
+      {
+        "name": "Map #40",
+        "uri": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@86d7c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.9583333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 1.9583333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@fac30",
+    "assetFinder": {
+      "meshes": [
+        "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@a47eb"
+      ],
+      "skeletons": [
+        "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@438fe"
+      ],
+      "textures": [
+        "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@54266",
+        "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@b21df",
+        "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@04303"
+      ],
+      "materials": [
+        "ae095634-e523-4210-8ece-b23566ef313a",
+        "6e829cc2-66a9-4205-a58c-faa6235a6a34",
+        "b8272638-f0c5-47d5-a0a6-bad916cac825"
+      ],
+      "scenes": [
+        "8b9c1656-1ca9-49d7-8437-88f80a3d8f72@fac30"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Pets/lucario/Materials_Lucario-Idle",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8c1219a8-62d1-4ef4-bcb1-2dfe8fa45c4e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8c1219a8-62d1-4ef4-bcb1-2dfe8fa45c4e@6c48a",
+      "displayName": "pm0025_00_Eye1",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8c1219a8-62d1-4ef4-bcb1-2dfe8fa45c4e",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": false,
+    "type": "texture",
+    "redirect": "8c1219a8-62d1-4ef4-bcb1-2dfe8fa45c4e@6c48a",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

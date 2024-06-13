@@ -1,0 +1,282 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb"
+  ],
+  "subMetas": {
+    "54524": {
+      "importer": "gltf-animation",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@54524",
+      "displayName": "",
+      "id": "54524",
+      "name": "Armature|lose.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.7333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "60915": {
+      "importer": "gltf-animation",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@60915",
+      "displayName": "",
+      "id": "60915",
+      "name": "Armature|idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 11.466666221618652
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e2349": {
+      "importer": "gltf-mesh",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@e2349",
+      "displayName": "",
+      "id": "e2349",
+      "name": "Mesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86a23": {
+      "importer": "gltf-animation",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@86a23",
+      "displayName": "",
+      "id": "86a23",
+      "name": "Armature|throw.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.200000047683716
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7a723": {
+      "importer": "gltf-animation",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@7a723",
+      "displayName": "",
+      "id": "7a723",
+      "name": "Armature|win.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 8.533333778381348
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 65
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4fe52": {
+      "importer": "gltf-scene",
+      "uuid": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@4fe52",
+      "displayName": "",
+      "id": "4fe52",
+      "name": "boss_girl.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Armature|idle",
+        "duration": 11.466666221618652,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|idle",
+            "from": 0,
+            "to": 11.466666221618652,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|lose",
+        "duration": 1.7333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|lose",
+            "from": 0,
+            "to": 1.7333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|throw",
+        "duration": 2.200000047683716,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|throw",
+            "from": 0,
+            "to": 2.200000047683716,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|win",
+        "duration": 8.533333778381348,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|win",
+            "from": 0,
+            "to": 8.533333778381348,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@4fe52",
+    "assetFinder": {
+      "meshes": [
+        "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@e2349"
+      ],
+      "skeletons": [
+        "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@438fe"
+      ],
+      "textures": [
+        "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@7d6ab"
+      ],
+      "materials": [
+        "d2ce1307-7c9c-4fe1-a71c-61aac1c97763"
+      ],
+      "scenes": [
+        "8c54b976-f5b1-4c63-a41a-a7a0b7edddd2@4fe52"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/character/enemy/Materials_boss_girl",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

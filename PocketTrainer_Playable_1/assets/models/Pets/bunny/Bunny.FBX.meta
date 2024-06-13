@@ -1,0 +1,142 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8",
+  "files": [],
+  "subMetas": {
+    "b21bf": {
+      "importer": "gltf-mesh",
+      "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@b21bf",
+      "displayName": "",
+      "id": "b21bf",
+      "name": "Bunny.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 6
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4f45": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@d4f45",
+      "displayName": "",
+      "id": "d4f45",
+      "name": "Map #2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@d4f45"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a76d7": {
+      "importer": "gltf-scene",
+      "uuid": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@a76d7",
+      "displayName": "",
+      "id": "a76d7",
+      "name": "Bunny.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@d4f45"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "d7cc8941-d06c-47d8-8a40-b1650d758bf8@a76d7",
+    "assetFinder": {
+      "meshes": [
+        "d7cc8941-d06c-47d8-8a40-b1650d758bf8@b21bf"
+      ],
+      "skeletons": [
+        "d7cc8941-d06c-47d8-8a40-b1650d758bf8@438fe"
+      ],
+      "textures": [
+        "d7cc8941-d06c-47d8-8a40-b1650d758bf8@1da29"
+      ],
+      "materials": [
+        "d7cc8941-d06c-47d8-8a40-b1650d758bf8@d90a4"
+      ],
+      "scenes": [
+        "d7cc8941-d06c-47d8-8a40-b1650d758bf8@a76d7"
+      ]
+    }
+  }
+}

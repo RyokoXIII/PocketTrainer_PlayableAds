@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "79313": {
+      "importer": "gltf-animation",
+      "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@79313",
+      "displayName": "",
+      "id": "79313",
+      "name": "Spin Attack Once.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cdae0": {
+      "importer": "gltf-scene",
+      "uuid": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@cdae0",
+      "displayName": "",
+      "id": "cdae0",
+      "name": "Golem Fire@Spin Attack Once.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Spin Attack Once",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "38c9cb36-6144-4131-8eaa-6c37ffb33b97@cdae0",
+    "assetFinder": {
+      "meshes": [
+        "38c9cb36-6144-4131-8eaa-6c37ffb33b97@4ace9"
+      ],
+      "skeletons": [
+        "38c9cb36-6144-4131-8eaa-6c37ffb33b97@438fe"
+      ],
+      "textures": [
+        "38c9cb36-6144-4131-8eaa-6c37ffb33b97@53e01"
+      ],
+      "materials": [
+        "38c9cb36-6144-4131-8eaa-6c37ffb33b97@d90a4"
+      ],
+      "scenes": [
+        "38c9cb36-6144-4131-8eaa-6c37ffb33b97@cdae0"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

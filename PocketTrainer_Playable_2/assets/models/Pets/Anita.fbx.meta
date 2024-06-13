@@ -1,0 +1,66 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "445c4f1c-d4d0-438f-81bf-ce8273e0dafb",
+  "files": [],
+  "subMetas": {
+    "49258": {
+      "importer": "gltf-scene",
+      "uuid": "445c4f1c-d4d0-438f-81bf-ce8273e0dafb@49258",
+      "displayName": "",
+      "id": "49258",
+      "name": "Anita.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "445c4f1c-d4d0-438f-81bf-ce8273e0dafb@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "445c4f1c-d4d0-438f-81bf-ce8273e0dafb@49258",
+    "assetFinder": {
+      "meshes": [
+        "445c4f1c-d4d0-438f-81bf-ce8273e0dafb@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "af2dadb9-b521-495c-839e-09ea69bfe27c"
+      ],
+      "scenes": [
+        "445c4f1c-d4d0-438f-81bf-ce8273e0dafb@49258"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Pets/Materials_Anita",
+    "meshOptimizer": false,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

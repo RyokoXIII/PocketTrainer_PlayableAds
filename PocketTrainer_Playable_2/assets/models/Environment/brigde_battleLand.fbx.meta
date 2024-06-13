@@ -1,0 +1,85 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3206f130-4f88-40f5-90f5-9f477034449a",
+  "files": [],
+  "subMetas": {
+    "99d6c": {
+      "importer": "gltf-mesh",
+      "uuid": "3206f130-4f88-40f5-90f5-9f477034449a@99d6c",
+      "displayName": "",
+      "id": "99d6c",
+      "name": "Scene-0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ec10": {
+      "importer": "gltf-mesh",
+      "uuid": "3206f130-4f88-40f5-90f5-9f477034449a@6ec10",
+      "displayName": "",
+      "id": "6ec10",
+      "name": "Scene-1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "581ba": {
+      "importer": "gltf-scene",
+      "uuid": "3206f130-4f88-40f5-90f5-9f477034449a@581ba",
+      "displayName": "",
+      "id": "581ba",
+      "name": "brigde_battleLand.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "3206f130-4f88-40f5-90f5-9f477034449a@581ba",
+    "assetFinder": {
+      "meshes": [
+        "3206f130-4f88-40f5-90f5-9f477034449a@99d6c",
+        "3206f130-4f88-40f5-90f5-9f477034449a@6ec10"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "72b099af-b6a8-491a-af52-73df212f826e",
+        "81c168a8-c095-46fe-912e-93b4af8a0113"
+      ],
+      "scenes": [
+        "3206f130-4f88-40f5-90f5-9f477034449a@581ba"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_brigde_battleLand",
+    "meshOptimizer": false,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

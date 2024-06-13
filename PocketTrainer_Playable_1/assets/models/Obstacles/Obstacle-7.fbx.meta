@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5",
+  "files": [],
+  "subMetas": {
+    "723e8": {
+      "importer": "gltf-mesh",
+      "uuid": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@723e8",
+      "displayName": "",
+      "id": "723e8",
+      "name": "Plane.017.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89ea8": {
+      "importer": "gltf-material",
+      "uuid": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@89ea8",
+      "displayName": "",
+      "id": "89ea8",
+      "name": "ramp.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f654f": {
+      "importer": "gltf-scene",
+      "uuid": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@f654f",
+      "displayName": "",
+      "id": "f654f",
+      "name": "Obstacle-7.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@f654f",
+    "assetFinder": {
+      "meshes": [
+        "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@723e8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@7d6ab"
+      ],
+      "materials": [
+        "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@89ea8"
+      ],
+      "scenes": [
+        "30ddd5c2-8336-4a0f-8509-94ecdaadf3e5@f654f"
+      ]
+    }
+  }
+}

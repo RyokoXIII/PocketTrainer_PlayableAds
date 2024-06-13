@@ -1,0 +1,66 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3edb0be6-2d58-450c-a17d-e95b713680dc",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "3edb0be6-2d58-450c-a17d-e95b713680dc@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "42efd": {
+      "importer": "gltf-scene",
+      "uuid": "3edb0be6-2d58-450c-a17d-e95b713680dc@42efd",
+      "displayName": "",
+      "id": "42efd",
+      "name": "money.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "3edb0be6-2d58-450c-a17d-e95b713680dc@42efd",
+    "assetFinder": {
+      "meshes": [
+        "3edb0be6-2d58-450c-a17d-e95b713680dc@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ddbf4c9e-1022-4b70-8179-71c97b94d8cd"
+      ],
+      "scenes": [
+        "3edb0be6-2d58-450c-a17d-e95b713680dc@42efd"
+      ]
+    },
+    "meshOptimizer": false,
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/items/Materials_money",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

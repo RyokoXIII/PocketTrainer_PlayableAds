@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4074e": {
+      "importer": "gltf-mesh",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@4074e",
+      "displayName": "",
+      "id": "4074e",
+      "name": "Creeper.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e184": {
+      "importer": "gltf-animation",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@7e184",
+      "displayName": "",
+      "id": "7e184",
+      "name": "Jump W Root.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 18
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7257": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@a7257",
+      "displayName": "",
+      "id": "a7257",
+      "name": "Map #3.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b9e5": {
+      "importer": "texture",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@6b9e5",
+      "displayName": "",
+      "id": "6b9e5",
+      "name": "Map #3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@a7257"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "242de": {
+      "importer": "gltf-scene",
+      "uuid": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@242de",
+      "displayName": "",
+      "id": "242de",
+      "name": "Creeper@Jump W Root.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #3",
+        "uri": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@a7257"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jump W Root",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@242de",
+    "assetFinder": {
+      "meshes": [
+        "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@4074e"
+      ],
+      "skeletons": [
+        "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@438fe"
+      ],
+      "textures": [
+        "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@6b9e5"
+      ],
+      "materials": [
+        "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@d90a4"
+      ],
+      "scenes": [
+        "8a35e127-8ba3-40a5-9fb3-bda2fd5f5726@242de"
+      ]
+    }
+  }
+}

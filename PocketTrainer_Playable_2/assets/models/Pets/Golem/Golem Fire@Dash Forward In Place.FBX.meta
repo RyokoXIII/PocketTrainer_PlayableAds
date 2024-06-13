@@ -1,0 +1,154 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f0e099d7-cfbf-4e24-869f-f73b74aa1939",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "f0e099d7-cfbf-4e24-869f-f73b74aa1939@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb6f5": {
+      "importer": "gltf-animation",
+      "uuid": "f0e099d7-cfbf-4e24-869f-f73b74aa1939@bb6f5",
+      "displayName": "",
+      "id": "bb6f5",
+      "name": "Dash Forward In Place.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "f0e099d7-cfbf-4e24-869f-f73b74aa1939@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "f0e099d7-cfbf-4e24-869f-f73b74aa1939@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d335": {
+      "importer": "gltf-scene",
+      "uuid": "f0e099d7-cfbf-4e24-869f-f73b74aa1939@3d335",
+      "displayName": "",
+      "id": "3d335",
+      "name": "Golem Fire@Dash Forward In Place.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dash Forward In Place",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f0e099d7-cfbf-4e24-869f-f73b74aa1939@3d335",
+    "assetFinder": {
+      "meshes": [
+        "f0e099d7-cfbf-4e24-869f-f73b74aa1939@4ace9"
+      ],
+      "skeletons": [
+        "f0e099d7-cfbf-4e24-869f-f73b74aa1939@438fe"
+      ],
+      "textures": [
+        "f0e099d7-cfbf-4e24-869f-f73b74aa1939@53e01"
+      ],
+      "materials": [
+        "b778891e-ad04-4f6b-8c90-7a1064cb5bfd"
+      ],
+      "scenes": [
+        "f0e099d7-cfbf-4e24-869f-f73b74aa1939@3d335"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Pets/Golem/Materials_Golem Fire@Dash Forward In Place",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

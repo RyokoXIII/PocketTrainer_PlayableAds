@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "b21bf": {
+      "importer": "gltf-mesh",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@b21bf",
+      "displayName": "",
+      "id": "b21bf",
+      "name": "Bunny.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34d65": {
+      "importer": "gltf-animation",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@34d65",
+      "displayName": "",
+      "id": "34d65",
+      "name": "Hope Forward In Place.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 6
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4f45": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@d4f45",
+      "displayName": "",
+      "id": "d4f45",
+      "name": "Map #2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8d8d8283-0e6c-45b7-a127-d32098a8a164@d4f45"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd953": {
+      "importer": "gltf-scene",
+      "uuid": "8d8d8283-0e6c-45b7-a127-d32098a8a164@dd953",
+      "displayName": "",
+      "id": "dd953",
+      "name": "Bunny@Hope Forward In Place.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "8d8d8283-0e6c-45b7-a127-d32098a8a164@d4f45"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Hope Forward In Place",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8d8d8283-0e6c-45b7-a127-d32098a8a164@dd953",
+    "assetFinder": {
+      "meshes": [
+        "8d8d8283-0e6c-45b7-a127-d32098a8a164@b21bf"
+      ],
+      "skeletons": [
+        "8d8d8283-0e6c-45b7-a127-d32098a8a164@438fe"
+      ],
+      "textures": [
+        "8d8d8283-0e6c-45b7-a127-d32098a8a164@1da29"
+      ],
+      "materials": [
+        "8d8d8283-0e6c-45b7-a127-d32098a8a164@d90a4"
+      ],
+      "scenes": [
+        "8d8d8283-0e6c-45b7-a127-d32098a8a164@dd953"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

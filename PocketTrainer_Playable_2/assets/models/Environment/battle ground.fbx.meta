@@ -1,0 +1,66 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6528518d-06ec-4f97-9f4e-87def86c9882",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "6528518d-06ec-4f97-9f4e-87def86c9882@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2471": {
+      "importer": "gltf-scene",
+      "uuid": "6528518d-06ec-4f97-9f4e-87def86c9882@b2471",
+      "displayName": "",
+      "id": "b2471",
+      "name": "battle ground.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "6528518d-06ec-4f97-9f4e-87def86c9882@b2471",
+    "assetFinder": {
+      "meshes": [
+        "6528518d-06ec-4f97-9f4e-87def86c9882@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6d1bb5e2-b082-4e69-bbc0-dcd0029ad221"
+      ],
+      "scenes": [
+        "6528518d-06ec-4f97-9f4e-87def86c9882@b2471"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_battle ground",
+    "meshOptimizer": false,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

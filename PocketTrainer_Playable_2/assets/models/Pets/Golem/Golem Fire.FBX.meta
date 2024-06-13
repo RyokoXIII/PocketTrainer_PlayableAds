@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1",
+  "files": [],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f71d": {
+      "importer": "gltf-scene",
+      "uuid": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@1f71d",
+      "displayName": "",
+      "id": "1f71d",
+      "name": "Golem Fire.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@1f71d",
+    "assetFinder": {
+      "meshes": [
+        "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@4ace9"
+      ],
+      "skeletons": [
+        "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@438fe"
+      ],
+      "textures": [
+        "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@53e01"
+      ],
+      "materials": [
+        "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@d90a4"
+      ],
+      "scenes": [
+        "75d4b5c1-91f0-4f4f-8ded-4fa5e4deb2f1@1f71d"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

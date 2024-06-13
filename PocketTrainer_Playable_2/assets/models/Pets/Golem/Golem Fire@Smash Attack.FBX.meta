@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4cfa4": {
+      "importer": "gltf-animation",
+      "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@4cfa4",
+      "displayName": "",
+      "id": "4cfa4",
+      "name": "Smash Attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30c2f": {
+      "importer": "gltf-scene",
+      "uuid": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@30c2f",
+      "displayName": "",
+      "id": "30c2f",
+      "name": "Golem Fire@Smash Attack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Smash Attack",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "06e5e265-73a2-4d7e-a720-1bb7c3e36400@30c2f",
+    "assetFinder": {
+      "meshes": [
+        "06e5e265-73a2-4d7e-a720-1bb7c3e36400@4ace9"
+      ],
+      "skeletons": [
+        "06e5e265-73a2-4d7e-a720-1bb7c3e36400@438fe"
+      ],
+      "textures": [
+        "06e5e265-73a2-4d7e-a720-1bb7c3e36400@53e01"
+      ],
+      "materials": [
+        "06e5e265-73a2-4d7e-a720-1bb7c3e36400@d90a4"
+      ],
+      "scenes": [
+        "06e5e265-73a2-4d7e-a720-1bb7c3e36400@30c2f"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

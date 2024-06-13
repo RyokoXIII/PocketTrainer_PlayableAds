@@ -1,0 +1,63 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "57d08e9d-da7e-4313-9f30-c58fa95ad176",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "57d08e9d-da7e-4313-9f30-c58fa95ad176@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cca4": {
+      "importer": "gltf-scene",
+      "uuid": "57d08e9d-da7e-4313-9f30-c58fa95ad176@7cca4",
+      "displayName": "",
+      "id": "7cca4",
+      "name": "road_level1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "57d08e9d-da7e-4313-9f30-c58fa95ad176@7cca4",
+    "assetFinder": {
+      "meshes": [
+        "57d08e9d-da7e-4313-9f30-c58fa95ad176@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "dbbb6bd8-edd0-4a65-b9cd-0ad6e8d995da"
+      ],
+      "scenes": [
+        "57d08e9d-da7e-4313-9f30-c58fa95ad176@7cca4"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_road_level1",
+    "meshOptimizer": false
+  }
+}

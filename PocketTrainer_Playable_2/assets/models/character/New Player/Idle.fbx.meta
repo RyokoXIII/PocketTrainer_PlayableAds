@@ -1,0 +1,177 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "speed": 1.5,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.9666666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 52
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@40586"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "503de": {
+      "importer": "gltf-scene",
+      "uuid": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@503de",
+      "displayName": "",
+      "id": "503de",
+      "name": "Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.9666666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 1.9666666984558105,
+            "wrapMode": 2,
+            "speed": 1.5
+          }
+        ]
+      }
+    ],
+    "redirect": "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@503de",
+    "assetFinder": {
+      "meshes": [
+        "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@bcca5"
+      ],
+      "skeletons": [
+        "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@438fe"
+      ],
+      "textures": [
+        "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@e39f7"
+      ],
+      "materials": [
+        "1cb47e73-496d-40a8-9e62-bf480e1134df"
+      ],
+      "scenes": [
+        "b74a5f60-9d09-46e5-96e7-cdc3d3bb60fb@503de"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/character/New Player/Materials_Idle",
+    "meshOptimizer": {
+      "algorithm": "gltfpack",
+      "enable": true,
+      "gltfpackOptions": {}
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

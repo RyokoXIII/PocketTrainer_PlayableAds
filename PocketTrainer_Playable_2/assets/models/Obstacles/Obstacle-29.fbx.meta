@@ -1,0 +1,79 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a11a1d57-7272-4c31-a7b0-f9250dee7aad",
+  "files": [],
+  "subMetas": {
+    "2feb1": {
+      "importer": "gltf-mesh",
+      "uuid": "a11a1d57-7272-4c31-a7b0-f9250dee7aad@2feb1",
+      "displayName": "",
+      "id": "2feb1",
+      "name": "Circle.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfe83": {
+      "importer": "gltf-material",
+      "uuid": "a11a1d57-7272-4c31-a7b0-f9250dee7aad@dfe83",
+      "displayName": "",
+      "id": "dfe83",
+      "name": "blue 1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacf": {
+      "importer": "gltf-scene",
+      "uuid": "a11a1d57-7272-4c31-a7b0-f9250dee7aad@adacf",
+      "displayName": "",
+      "id": "adacf",
+      "name": "Obstacle-29.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "a11a1d57-7272-4c31-a7b0-f9250dee7aad@adacf",
+    "assetFinder": {
+      "meshes": [
+        "a11a1d57-7272-4c31-a7b0-f9250dee7aad@2feb1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a11a1d57-7272-4c31-a7b0-f9250dee7aad@dfe83"
+      ],
+      "scenes": [
+        "a11a1d57-7272-4c31-a7b0-f9250dee7aad@adacf"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

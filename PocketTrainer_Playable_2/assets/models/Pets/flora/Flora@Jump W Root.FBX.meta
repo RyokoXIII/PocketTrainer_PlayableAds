@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "3cf2a": {
+      "importer": "gltf-mesh",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@3cf2a",
+      "displayName": "",
+      "id": "3cf2a",
+      "name": "Flora.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e184": {
+      "importer": "gltf-animation",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@7e184",
+      "displayName": "",
+      "id": "7e184",
+      "name": "Jump W Root.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ace8f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@ace8f",
+      "displayName": "",
+      "id": "ace8f",
+      "name": "Map #4.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f8008": {
+      "importer": "texture",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@f8008",
+      "displayName": "",
+      "id": "f8008",
+      "name": "Map #4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@ace8f"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38b62": {
+      "importer": "gltf-scene",
+      "uuid": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@38b62",
+      "displayName": "",
+      "id": "38b62",
+      "name": "Flora@Jump W Root.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #4",
+        "uri": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@ace8f"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jump W Root",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@38b62",
+    "assetFinder": {
+      "meshes": [
+        "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@3cf2a"
+      ],
+      "skeletons": [
+        "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@438fe"
+      ],
+      "textures": [
+        "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@f8008"
+      ],
+      "materials": [
+        "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@d90a4"
+      ],
+      "scenes": [
+        "b2bf1721-eb1c-427f-bca2-5e41d236d2b4@38b62"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

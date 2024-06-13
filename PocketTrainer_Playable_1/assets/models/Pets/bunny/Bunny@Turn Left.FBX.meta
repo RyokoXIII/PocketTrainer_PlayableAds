@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "b21bf": {
+      "importer": "gltf-mesh",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@b21bf",
+      "displayName": "",
+      "id": "b21bf",
+      "name": "Bunny.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "401bf": {
+      "importer": "gltf-animation",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@401bf",
+      "displayName": "",
+      "id": "401bf",
+      "name": "Turn Left.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 6
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4f45": {
+      "importer": "gltf-embeded-image",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@d4f45",
+      "displayName": "",
+      "id": "d4f45",
+      "name": "Map #2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "62c0be2e-2d1e-4a96-b461-831536f68f33@d4f45"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b67b": {
+      "importer": "gltf-scene",
+      "uuid": "62c0be2e-2d1e-4a96-b461-831536f68f33@3b67b",
+      "displayName": "",
+      "id": "3b67b",
+      "name": "Bunny@Turn Left.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "62c0be2e-2d1e-4a96-b461-831536f68f33@d4f45"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Turn Left",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "62c0be2e-2d1e-4a96-b461-831536f68f33@3b67b",
+    "assetFinder": {
+      "meshes": [
+        "62c0be2e-2d1e-4a96-b461-831536f68f33@b21bf"
+      ],
+      "skeletons": [
+        "62c0be2e-2d1e-4a96-b461-831536f68f33@438fe"
+      ],
+      "textures": [
+        "62c0be2e-2d1e-4a96-b461-831536f68f33@1da29"
+      ],
+      "materials": [
+        "62c0be2e-2d1e-4a96-b461-831536f68f33@d90a4"
+      ],
+      "scenes": [
+        "62c0be2e-2d1e-4a96-b461-831536f68f33@3b67b"
+      ]
+    }
+  }
+}

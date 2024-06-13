@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7e8b3": {
+      "importer": "gltf-mesh",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@7e8b3",
+      "displayName": "",
+      "id": "7e8b3",
+      "name": "Dragon Dusk.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8ac4": {
+      "importer": "gltf-animation",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@d8ac4",
+      "displayName": "",
+      "id": "d8ac4",
+      "name": "Fly Forward W Root.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 25
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "873ed": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@873ed",
+      "displayName": "",
+      "id": "873ed",
+      "name": "Map #6.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@873ed"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6d65": {
+      "importer": "gltf-scene",
+      "uuid": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@e6d65",
+      "displayName": "",
+      "id": "e6d65",
+      "name": "Dragon Dusk@Fly Forward W Root.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@873ed"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fly Forward W Root",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "7f49c0c7-5ba6-4162-a528-445fcb7d2640@e6d65",
+    "assetFinder": {
+      "meshes": [
+        "7f49c0c7-5ba6-4162-a528-445fcb7d2640@7e8b3"
+      ],
+      "skeletons": [
+        "7f49c0c7-5ba6-4162-a528-445fcb7d2640@438fe"
+      ],
+      "textures": [
+        "7f49c0c7-5ba6-4162-a528-445fcb7d2640@53e01"
+      ],
+      "materials": [
+        "7f49c0c7-5ba6-4162-a528-445fcb7d2640@d90a4"
+      ],
+      "scenes": [
+        "7f49c0c7-5ba6-4162-a528-445fcb7d2640@e6d65"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

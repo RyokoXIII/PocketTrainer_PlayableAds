@@ -1,0 +1,153 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "95359": {
+      "importer": "gltf-scene",
+      "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@95359",
+      "displayName": "",
+      "id": "95359",
+      "name": "Obstacle-24.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16a00": {
+      "importer": "gltf-mesh",
+      "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@16a00",
+      "displayName": "",
+      "id": "16a00",
+      "name": "vertical round grinder_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c9e9": {
+      "importer": "gltf-animation",
+      "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@6c9e9",
+      "displayName": "",
+      "id": "6c9e9",
+      "name": "obstacles.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.4833333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "dfe83": {
+      "importer": "gltf-material",
+      "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@dfe83",
+      "displayName": "",
+      "id": "dfe83",
+      "name": "blue 1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b31f4": {
+      "importer": "gltf-material",
+      "uuid": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@b31f4",
+      "displayName": "",
+      "id": "b31f4",
+      "name": "white.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "obstacles",
+        "duration": 1.4833333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "obstacles",
+            "from": 0,
+            "to": 1.4833333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "2a28f44c-e631-4054-b37c-c2d53f0c63e2@95359",
+    "assetFinder": {
+      "meshes": [
+        "2a28f44c-e631-4054-b37c-c2d53f0c63e2@16a00"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2a28f44c-e631-4054-b37c-c2d53f0c63e2@dfe83",
+        "2a28f44c-e631-4054-b37c-c2d53f0c63e2@92dfd",
+        "2a28f44c-e631-4054-b37c-c2d53f0c63e2@b31f4"
+      ],
+      "scenes": [
+        "2a28f44c-e631-4054-b37c-c2d53f0c63e2@95359"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d95837a5-433b-4297-bd14-28239171340e",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "d95837a5-433b-4297-bd14-28239171340e@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e63ed": {
+      "importer": "gltf-animation",
+      "uuid": "d95837a5-433b-4297-bd14-28239171340e@e63ed",
+      "displayName": "",
+      "id": "e63ed",
+      "name": "Spin Attack Loop.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.3333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "d95837a5-433b-4297-bd14-28239171340e@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "d95837a5-433b-4297-bd14-28239171340e@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "d95837a5-433b-4297-bd14-28239171340e@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1fd86": {
+      "importer": "gltf-scene",
+      "uuid": "d95837a5-433b-4297-bd14-28239171340e@1fd86",
+      "displayName": "",
+      "id": "1fd86",
+      "name": "Golem Fire@Spin Attack Loop.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.3333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Spin Attack Loop",
+            "from": 0,
+            "to": 0.3333333432674408,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d95837a5-433b-4297-bd14-28239171340e@1fd86",
+    "assetFinder": {
+      "meshes": [
+        "d95837a5-433b-4297-bd14-28239171340e@4ace9"
+      ],
+      "skeletons": [
+        "d95837a5-433b-4297-bd14-28239171340e@438fe"
+      ],
+      "textures": [
+        "d95837a5-433b-4297-bd14-28239171340e@53e01"
+      ],
+      "materials": [
+        "d95837a5-433b-4297-bd14-28239171340e@d90a4"
+      ],
+      "scenes": [
+        "d95837a5-433b-4297-bd14-28239171340e@1fd86"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

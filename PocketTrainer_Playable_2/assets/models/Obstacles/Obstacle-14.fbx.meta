@@ -1,0 +1,188 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "9d0dc": {
+      "importer": "gltf-mesh",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@9d0dc",
+      "displayName": "",
+      "id": "9d0dc",
+      "name": "Circle.035.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4eed3": {
+      "importer": "gltf-mesh",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@4eed3",
+      "displayName": "",
+      "id": "4eed3",
+      "name": "turning grinder_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c9e9": {
+      "importer": "gltf-animation",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@6c9e9",
+      "displayName": "",
+      "id": "6c9e9",
+      "name": "obstacles.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.9833333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e8c72": {
+      "importer": "gltf-material",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@e8c72",
+      "displayName": "",
+      "id": "e8c72",
+      "name": "gray 2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfe83": {
+      "importer": "gltf-material",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@dfe83",
+      "displayName": "",
+      "id": "dfe83",
+      "name": "blue 1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b31f4": {
+      "importer": "gltf-material",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@b31f4",
+      "displayName": "",
+      "id": "b31f4",
+      "name": "white.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e57c6": {
+      "importer": "gltf-scene",
+      "uuid": "43e458ad-5d33-4db7-a664-d79a8861b5cc@e57c6",
+      "displayName": "",
+      "id": "e57c6",
+      "name": "Obstacle-14.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "obstacles",
+        "duration": 1.9833333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "obstacles",
+            "from": 0,
+            "to": 1.9833333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "43e458ad-5d33-4db7-a664-d79a8861b5cc@e57c6",
+    "assetFinder": {
+      "meshes": [
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@9d0dc",
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@4eed3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@e8c72",
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@dfe83",
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@b31f4",
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@92dfd"
+      ],
+      "scenes": [
+        "43e458ad-5d33-4db7-a664-d79a8861b5cc@e57c6"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

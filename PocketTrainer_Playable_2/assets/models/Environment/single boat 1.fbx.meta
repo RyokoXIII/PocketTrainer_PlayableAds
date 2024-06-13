@@ -1,0 +1,66 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c5da1519-f441-40f5-954d-98ce58ddf22e",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "c5da1519-f441-40f5-954d-98ce58ddf22e@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "386ae": {
+      "importer": "gltf-scene",
+      "uuid": "c5da1519-f441-40f5-954d-98ce58ddf22e@386ae",
+      "displayName": "",
+      "id": "386ae",
+      "name": "single boat 1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "c5da1519-f441-40f5-954d-98ce58ddf22e@386ae",
+    "assetFinder": {
+      "meshes": [
+        "c5da1519-f441-40f5-954d-98ce58ddf22e@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4dd4b3e6-dcc0-4537-8d62-032285d6d729"
+      ],
+      "scenes": [
+        "c5da1519-f441-40f5-954d-98ce58ddf22e@386ae"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_single boat 1",
+    "meshOptimizer": false,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

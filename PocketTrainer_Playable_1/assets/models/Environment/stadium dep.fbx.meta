@@ -1,0 +1,66 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "424f6eca-b959-44b9-8219-a140c2985577",
+  "files": [],
+  "subMetas": {
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "424f6eca-b959-44b9-8219-a140c2985577@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "518f4": {
+      "importer": "gltf-scene",
+      "uuid": "424f6eca-b959-44b9-8219-a140c2985577@518f4",
+      "displayName": "",
+      "id": "518f4",
+      "name": "stadium dep.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "424f6eca-b959-44b9-8219-a140c2985577@518f4",
+    "assetFinder": {
+      "meshes": [
+        "424f6eca-b959-44b9-8219-a140c2985577@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ebfdcb4b-6778-4f71-a9a7-9d58cbd79da1",
+        "63f55d29-6bcf-4a1a-87b7-eba21a5c5cc9",
+        "07dfb6a6-4583-403c-ab7b-b50f1906922c",
+        "bf610d64-da51-4584-a97c-82542129be64"
+      ],
+      "scenes": [
+        "424f6eca-b959-44b9-8219-a140c2985577@518f4"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_stadium dep",
+    "meshOptimizer": true
+  }
+}

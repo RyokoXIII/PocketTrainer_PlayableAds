@@ -1,0 +1,116 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "73be6cb5-3f81-46b7-a120-5ce2de932688",
+  "files": [],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "73be6cb5-3f81-46b7-a120-5ce2de932688@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "73be6cb5-3f81-46b7-a120-5ce2de932688@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "73be6cb5-3f81-46b7-a120-5ce2de932688@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "73be6cb5-3f81-46b7-a120-5ce2de932688@40586"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8777": {
+      "importer": "gltf-scene",
+      "uuid": "73be6cb5-3f81-46b7-a120-5ce2de932688@e8777",
+      "displayName": "",
+      "id": "e8777",
+      "name": "GlaciersOnWater.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "73be6cb5-3f81-46b7-a120-5ce2de932688@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "73be6cb5-3f81-46b7-a120-5ce2de932688@e8777",
+    "assetFinder": {
+      "meshes": [
+        "73be6cb5-3f81-46b7-a120-5ce2de932688@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "73be6cb5-3f81-46b7-a120-5ce2de932688@e39f7"
+      ],
+      "materials": [
+        "cfa4cf0a-b39c-4658-8f8c-f1ffad7ba009"
+      ],
+      "scenes": [
+        "73be6cb5-3f81-46b7-a120-5ce2de932688@e8777"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Environment/Materials_GlaciersOnWater",
+    "meshOptimizer": {
+      "algorithm": "gltfpack",
+      "enable": true,
+      "gltfpackOptions": {}
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

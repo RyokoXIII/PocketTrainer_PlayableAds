@@ -1,0 +1,112 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "36e9ed66-9c9f-47f8-9987-34366e512cb8",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "36e9ed66-9c9f-47f8-9987-34366e512cb8@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c9e9": {
+      "importer": "gltf-animation",
+      "uuid": "36e9ed66-9c9f-47f8-9987-34366e512cb8@6c9e9",
+      "displayName": "",
+      "id": "6c9e9",
+      "name": "obstacles.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "2b31c": {
+      "importer": "gltf-scene",
+      "uuid": "36e9ed66-9c9f-47f8-9987-34366e512cb8@2b31c",
+      "displayName": "",
+      "id": "2b31c",
+      "name": "Obstacle-23.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "obstacles",
+        "duration": 1.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "obstacles",
+            "from": 0,
+            "to": 1.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "36e9ed66-9c9f-47f8-9987-34366e512cb8@2b31c",
+    "assetFinder": {
+      "meshes": [
+        "36e9ed66-9c9f-47f8-9987-34366e512cb8@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8b9e7138-d7e9-44ff-b6f9-18428cfc11d1",
+        "3fa90a59-75a5-4010-82da-f84345091eb0",
+        "9d4326e0-debc-479e-b47b-c6101253d3de"
+      ],
+      "scenes": [
+        "36e9ed66-9c9f-47f8-9987-34366e512cb8@2b31c"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Obstacles/Materials_Obstacle-23",
+    "meshOptimizer": {
+      "algorithm": "gltfpack",
+      "enable": true,
+      "gltfpackOptions": {}
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

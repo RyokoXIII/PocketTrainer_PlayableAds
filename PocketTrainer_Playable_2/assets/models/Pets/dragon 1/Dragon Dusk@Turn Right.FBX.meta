@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7e8b3": {
+      "importer": "gltf-mesh",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@7e8b3",
+      "displayName": "",
+      "id": "7e8b3",
+      "name": "Dragon Dusk.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bcb0": {
+      "importer": "gltf-animation",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@8bcb0",
+      "displayName": "",
+      "id": "8bcb0",
+      "name": "Turn Right.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 25
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "873ed": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@873ed",
+      "displayName": "",
+      "id": "873ed",
+      "name": "Map #6.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5886dbbb-51e1-4cec-8392-42594b56670a@873ed"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ccd6a": {
+      "importer": "gltf-scene",
+      "uuid": "5886dbbb-51e1-4cec-8392-42594b56670a@ccd6a",
+      "displayName": "",
+      "id": "ccd6a",
+      "name": "Dragon Dusk@Turn Right.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "5886dbbb-51e1-4cec-8392-42594b56670a@873ed"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Turn Right",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5886dbbb-51e1-4cec-8392-42594b56670a@ccd6a",
+    "assetFinder": {
+      "meshes": [
+        "5886dbbb-51e1-4cec-8392-42594b56670a@7e8b3"
+      ],
+      "skeletons": [
+        "5886dbbb-51e1-4cec-8392-42594b56670a@438fe"
+      ],
+      "textures": [
+        "5886dbbb-51e1-4cec-8392-42594b56670a@53e01"
+      ],
+      "materials": [
+        "5886dbbb-51e1-4cec-8392-42594b56670a@d90a4"
+      ],
+      "scenes": [
+        "5886dbbb-51e1-4cec-8392-42594b56670a@ccd6a"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

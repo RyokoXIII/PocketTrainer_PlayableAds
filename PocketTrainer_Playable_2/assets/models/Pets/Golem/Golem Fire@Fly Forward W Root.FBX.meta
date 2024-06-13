@@ -1,0 +1,168 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4ace9": {
+      "importer": "gltf-mesh",
+      "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839@4ace9",
+      "displayName": "",
+      "id": "4ace9",
+      "name": "Golem Fire.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8ac4": {
+      "importer": "gltf-animation",
+      "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839@d8ac4",
+      "displayName": "",
+      "id": "d8ac4",
+      "name": "Fly Forward W Root.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2942": {
+      "importer": "gltf-scene",
+      "uuid": "82b52e9f-c61c-4096-90dd-001ddc0fa839@f2942",
+      "displayName": "",
+      "id": "f2942",
+      "name": "Golem Fire@Fly Forward W Root.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #6",
+        "uri": "db://assets/models/Pets/Golem/Textures/Golem Fire.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fly Forward W Root",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "82b52e9f-c61c-4096-90dd-001ddc0fa839@f2942",
+    "assetFinder": {
+      "meshes": [
+        "82b52e9f-c61c-4096-90dd-001ddc0fa839@4ace9"
+      ],
+      "skeletons": [
+        "82b52e9f-c61c-4096-90dd-001ddc0fa839@438fe"
+      ],
+      "textures": [
+        "82b52e9f-c61c-4096-90dd-001ddc0fa839@53e01"
+      ],
+      "materials": [
+        "82b52e9f-c61c-4096-90dd-001ddc0fa839@d90a4"
+      ],
+      "scenes": [
+        "82b52e9f-c61c-4096-90dd-001ddc0fa839@f2942"
+      ]
+    },
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb"
+  ],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a724": {
+      "importer": "gltf-animation",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@1a724",
+      "displayName": "",
+      "id": "1a724",
+      "name": "Armature.001|defeat.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.766666889190674
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cb794": {
+      "importer": "gltf-animation",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@cb794",
+      "displayName": "",
+      "id": "cb794",
+      "name": "Armature.001|idle.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7ffcb": {
+      "importer": "gltf-animation",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@7ffcb",
+      "displayName": "",
+      "id": "7ffcb",
+      "name": "Armature.001|t pose.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "be0b8": {
+      "importer": "gltf-animation",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@be0b8",
+      "displayName": "",
+      "id": "be0b8",
+      "name": "Armature.001|throw.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.200000047683716
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "bfe0c": {
+      "importer": "gltf-animation",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@bfe0c",
+      "displayName": "",
+      "id": "bfe0c",
+      "name": "Armature.001|win.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 8.533333778381348
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 25
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "764089c7-646d-4d52-9f7b-16b3760f937e@40586"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8158": {
+      "importer": "gltf-scene",
+      "uuid": "764089c7-646d-4d52-9f7b-16b3760f937e@d8158",
+      "displayName": "",
+      "id": "d8158",
+      "name": "boss2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "764089c7-646d-4d52-9f7b-16b3760f937e@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Armature.001|defeat",
+        "duration": 4.766666889190674,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|defeat",
+            "from": 0,
+            "to": 4.766666889190674,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|idle",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|idle",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|t pose",
+        "duration": 0,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|t pose",
+            "from": 0,
+            "to": 0,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|throw",
+        "duration": 2.200000047683716,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|throw",
+            "from": 0,
+            "to": 2.200000047683716,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|win",
+        "duration": 8.533333778381348,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|win",
+            "from": 0,
+            "to": 8.533333778381348,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "764089c7-646d-4d52-9f7b-16b3760f937e@d8158",
+    "assetFinder": {
+      "meshes": [
+        "764089c7-646d-4d52-9f7b-16b3760f937e@bcca5"
+      ],
+      "skeletons": [
+        "764089c7-646d-4d52-9f7b-16b3760f937e@438fe"
+      ],
+      "textures": [
+        "764089c7-646d-4d52-9f7b-16b3760f937e@e39f7"
+      ],
+      "materials": [
+        "6d990dab-8c7b-4b9b-8ffe-c9961db1c67a"
+      ],
+      "scenes": [
+        "764089c7-646d-4d52-9f7b-16b3760f937e@d8158"
+      ]
+    },
+    "meshOptimizer": true,
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/character/enemy/Materials_boss2"
+  }
+}
